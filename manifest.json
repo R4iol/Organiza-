@@ -1,0 +1,20 @@
+{
+  "name": "Meu App IFAP — Catálogo Mobile",
+  "short_name": "App IFAP",
+  "description": "Template Base PWA Mobile-First desenvolvido no curso de Desenvolvimento de Apps do IFAP.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#6d28d9",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
